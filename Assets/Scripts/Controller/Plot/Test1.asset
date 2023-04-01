@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 299a4250799931749a87d7286660627b, type: 3}
+  m_Name: Test1
+  m_EditorClassIdentifier: 
+  ID: 0
+  Index: 0
+  description: 0
+  sprite: {fileID: 21300000, guid: ed3d66a180830fd4ba85b6f0dcb86725, type: 3}
+  curve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  textColorCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  head: 0
+  tail: 1
+  passage:
+  - Charater: Exberlahet
+    text: Welcome to use this UI system
+    startTime: 0
+    endTime: 1
+    Pos: {x: 0, y: -0.25}
+    Size: {x: 1, y: 0.5}
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    Background: {fileID: -457375788, guid: 6eed744113bfb864385a4f50b2bc1f53, type: 3}
+    TAS: left
+    TargetState: 1
+  - Charater: Exberlahet
+    text: This project is names AlphaDiagram(AD)
+    startTime: 1
+    endTime: 2
+    Pos: {x: 0, y: -0.25}
+    Size: {x: 1, y: 0.5}
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    Background: {fileID: 21300000, guid: e1c5722225daa5f4d93f54625bc7eb5f, type: 3}
+    TAS: 
+    TargetState: 0
+  - Charater: Exberlahet
+    text: "The goal is to develop a pipeline logic and \nUI that is easy to use \n(rather
+      than simply seeking efficiency)."
+    startTime: 2
+    endTime: 3
+    Pos: {x: 0, y: -0.25}
+    Size: {x: 1, y: 0.5}
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    Background: {fileID: 21300000, guid: 66f60ba35bcd0f14595ab0895a3f9320, type: 3}
+    TAS: right
+    TargetState: 1

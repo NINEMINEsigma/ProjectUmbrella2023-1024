@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 99ffed864ffa4a34e8505b3e0e56ee87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TargetItemPrefab: {instanceID: 0}
+  - BoxPrefab: {fileID: 4638533718264414177, guid: e0e3ee379916ecf4b982c9cf2559be6f, type: 3}
+  - target: {instanceID: 0}
+  - Histroy_: {instanceID: 0}
+  - Histrory_text: {instanceID: 0}
+  - History_two: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

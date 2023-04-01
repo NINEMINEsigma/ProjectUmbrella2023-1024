@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: ff738d93736b34d618e09e5e860a4ca1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HarmonyOS Sans Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ea473a48e474a472a8fda035d5c1fea4, type: 3}
+  - {fileID: 12800000, guid: 6dfbcd7bd41944ff7b893776f9286c4f, type: 3}
+  - {fileID: 12800000, guid: 9b19c7dc2247b4f719469b0a964b090d, type: 3}
+  - {fileID: 12800000, guid: 6430b4774cab44898b6440c218d0de1f, type: 3}
+  - {fileID: 12800000, guid: c82adab4b1d7745e5a07fec632f5eaba, type: 3}
+  - {fileID: 12800000, guid: 07dcd011fa27e40ae9bd646e15ee1138, type: 3}
+  - {fileID: 12800000, guid: 3b3fde0432d884574b39f2c2ca40c46f, type: 3}
+  - {fileID: 12800000, guid: 84fb7948a74f5457b94f2697d39aad1d, type: 3}
+  - {fileID: 12800000, guid: e1aaf34b899ca4e83a7967bdb616d1c3, type: 3}
+  - {fileID: 12800000, guid: c2f7856ca557543a394b4c0fc03a0228, type: 3}
+  - {fileID: 12800000, guid: 20af8812256ef4a9cb63300cdb080e0a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

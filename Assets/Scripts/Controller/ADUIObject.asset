@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e92f373ee75eca244b06e90ebce2acad, type: 3}
+  m_Name: ADUIObject
+  m_EditorClassIdentifier: 
+  ADBC_: {fileID: 2954600828565397817, guid: a2a2ac1fc9f85b948ba9f7a2826c9e64, type: 3}
+  ADTC_: {fileID: 7291855785095401929, guid: 9331ebf8784b2f1419e623ac8764fc5f, type: 3}
+  UIButton_: {fileID: 2800576513338066038, guid: 574d7f45d8fe3944ca5b079bd3d808a7, type: 3}
+  ADBGC_: {fileID: 0}
+  ADBG_ChildC_: {fileID: 0}
+  ADDC_: {fileID: 6847180644421374558, guid: 03aaa61bc412b61449e87120ccccf7d8, type: 3}
+  ADIFC_: {fileID: 5213202207891412834, guid: 1bada05dad8b8de47ac05d5e1a3c64cb, type: 3}
+  ADSC_: {fileID: 8778593281919093703, guid: cf0f1bb8a678bea4c99f2d2f2b98d354, type: 3}
+  ADS_Name_: {fileID: 0}

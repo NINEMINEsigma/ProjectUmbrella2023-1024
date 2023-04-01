@@ -1,0 +1,17 @@
+{
+    "name": "PU",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2de48d34fe37b7a42894df49a9c4c2a4",
+        "GUID:d449f9ea4492db0449735ebd79c24b89"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
